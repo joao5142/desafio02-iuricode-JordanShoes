@@ -1,5 +1,5 @@
 <h1>Desafio Jordan Shoes</h1>
-<h4>Criação de um site de vendas de tênis</h4>
+<h4>Criação de um site de vendas de tênis com HTML|CSS|Javascript</h4>
 <h2>Tecnologias Utilizadas</h2>
 <div style="display: inline_block">
   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
